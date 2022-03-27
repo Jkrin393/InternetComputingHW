@@ -1,0 +1,1 @@
+these files are to demonstrate the creation of a hospital object in XML. Also included are the DTD and XML schema files with the JAVA code testing their correctness.

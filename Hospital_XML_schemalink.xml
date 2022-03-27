@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<hospital xmlns:xs="http://www.w3.org/2001/XMLSchema" xs:noNameSpaceLocation="C:/Users/Josh/Desktop/HTML/HW3_3/src/HospitalXML/HospitalXMLSchema.xsd" name = "NYC Hospital 2" >
+<employee id = "1">
+		<role>nurse</role>
+		<name>Sonny</name>
+	</employee>
+	<employee id = "2">
+		<role>doctor</role>
+		<name>Vincent</name>
+	</employee>
+</hospital> 

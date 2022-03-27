@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT hospital (employee+)>
+<!ELEMENT employee (role, name)>
+<!ELEMENT role (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST employee id CDATA #REQUIRED>
+<!ATTLIST hospital name CDATA #REQUIRED>
+
